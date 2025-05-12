@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9922000000035060",
+      "name": "NewCart",
+      "domain": {
+        "id": "50026450836",
+        "name": "newcart-60033733524.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60033733524",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
